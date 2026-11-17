@@ -1,0 +1,16 @@
+# Ottoman flags 1920x1080
+
+All ottoman flags in 1920x1080 resolution.
+
+## Source
+All flags sourced from Wikimedia Commons (Public Domain).
+Edited to 1920x1080 resolution using Paint.NET.
+Ottoman Empire (1499-1514) flag is derived from Ottoman Empire (1514-1517) flag.
+
+## License
+CC0 1.0 Universal - Public Domain Dedication
+All files in this repository are dedicated to the public domain.
+
+## Attribution (appreciated but not required)
+If you use these flags, attribution is appreciated but not legally required.
+Example: "Flags sourced from https://github.com/anthemthings/Flag_Pic_O/edit/main/Ottoman%20Empire "
